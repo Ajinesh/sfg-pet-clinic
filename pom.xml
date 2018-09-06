@@ -4,7 +4,7 @@
 
     <groupId>com.aks</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.3</version>
+    <version>1.0.01-SNAPSHOT</version>
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>
@@ -56,8 +56,8 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:git@github.com:Ajinesh/sfg-pet-clinic.git</developerConnection>
-      <tag>sfg-pet-clinic-0.0.3</tag>
+        <developerConnection>scm:git:https://github.com/Ajinesh/sfg-pet-clinic.git</developerConnection>
+      <tag>sfg-pet-clinic-0.0.4</tag>
   </scm>
 
 </project>
